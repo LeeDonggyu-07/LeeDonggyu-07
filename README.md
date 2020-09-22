@@ -11,7 +11,7 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am 14 years old in Korea
 2. crock1234@kakao.com
 3. crockkevin1234@gmail.com
 
-### 💬 KAKAOTALK 
+### 💬 kakaotalk 
 
 @CROCKLDG
 
