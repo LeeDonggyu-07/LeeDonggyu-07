@@ -3,16 +3,16 @@
 Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Korean age, and I am in the 1st grade (7th grade) of Komyung Middle School.**
 
 ### 📞 Contact
-📧 Email
+#### 📧 Email
 
 * crock1234@naver.com
 * crock1234@kakao.com
 * crockkevin1234@gmail.com
 
-💬 KakaoTalk
+#### 💬 KakaoTalk
 * @CROCKLDG
 
-📖 Naver Blog
+#### 📖 Naver Blog
 * [https://blog.naver.com/crock1234](https://blog.naver.com/crock1234)
 
 ### 😀 My Role
