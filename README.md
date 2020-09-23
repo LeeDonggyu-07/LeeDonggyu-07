@@ -21,3 +21,17 @@ I mainly **plan and help fornt-end's developer** in develper field. Rather than 
 
 청소년 활동 분야에서는 주로 **'활동 구성 및 진행', '온라인 소통'을 맡고 있습니다.** 청소년 기자, 활동가로 활동할 수 있도록 노력하고 있습니다.   
 In the field of youth activities, I am mainly in charge of'organizing and conducting activities' and'online communication'. I am working hard to become a youth reporter and activist.
+
+### 🧑‍ Career
+* 2016 서울시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/) 어린이 기자단 기자
+* 2017 마인크래프트 서버 개발 팀 DM Networks 대표
+* 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격 
+* 2018 [키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko) 제 9대 어린이 의원
+* 2019 [서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/) 제 1기 수료
+* 2019 청소년 프로그래밍팀 Cherry Networks 대표
+* 2019 [통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841) 제 8기 기자
+* 2020 우송대학교 KWC2020 대회 Team Acentic 모임 일정 통계 서비스 MeetUP 출품
+* 2020 청소년 프로그래밍 / 활동 팀 Acentic Network 운영진
+* 2020 청소년 언론 [수완뉴스](https://www.su-wan.co.kr/) 청소년 기자단 기자
+* 2020 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do) 선발직 온라인소통팀 팀장
+* 2020 청소년 프로그래밍 팀 Team Nameless 팀원
