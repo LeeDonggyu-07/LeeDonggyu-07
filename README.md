@@ -37,5 +37,5 @@ In the field of youth activities, I am mainly in charge of'organizing and conduc
 * 2020 청소년 프로그래밍 팀 Team Nameless 팀원 (2020 Youth Programming Team Team Nameless Team Member)
 
 ### 💻 Previous Projects
-* 2019 Yak Project (with @jinpyojoo, Kim Kyubin, Kim Taehyun, Jeong Doyoung)
-* 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with @YubinHeo, Sweet_cloud, @jinpyojoo)
+* 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
+* 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
