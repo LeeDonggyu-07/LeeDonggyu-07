@@ -25,7 +25,7 @@ In the field of youth activities, I am mainly in charge of'organizing and conduc
 ### 🧑‍ Career
 * 2016 서울시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/) 어린이 기자단 기자 (2016 Seoul Children's Newspaper My Friend Seoul Children's Reporter Reporter)
 * 2017 마인크래프트 서버 개발 팀 DM Networks 대표 (2017 Head of DM Networks, Minecraft Server Development Team)
-* 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격 (2017 Korea Information and Communication Promotion Association Information and Communication Technology Qualification Test Digital Information Utilization Ability (DIAT) Presentation (PPT) and Advanced Pass)
+* 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격 (2017 Korea Association for ICT Promotion(KAIT) Digital Information Ability Test(DIAT) Presentation(PPT) Advanced Pass)
 * 2018 [키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko) 제 9대 어린이 의원 (2018 KidZania Seoul 9th Children congress man)
 * 2019 [서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/) 제 1기 수료 (2019 Seoul National University of Education Software Gifted Program 1st Completion)
 * 2019 청소년 프로그래밍팀 Cherry Networks 대표 (2019 Head of Cherry Networks, Youth Programming Team)
