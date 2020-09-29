@@ -39,3 +39,5 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 ### 💻 Previous Projects
 * 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
 * 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&show_icons=true&theme=dark)
