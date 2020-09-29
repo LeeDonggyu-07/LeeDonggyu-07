@@ -2,7 +2,7 @@
 안녕하세요! 2020년, 현재 **14세로 고명중학교에 재학 중**인 이동규입니다. 제 페이지에 와주셔서 감사드립니다!    
 Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Korean age, and I am in the 1st grade (7th grade) of Komyung Middle School.**
 
-### 📞 Contact
+### 📞 Contact! 
 #### 📧 Email
 
 * crock1234@naver.com
