@@ -42,3 +42,4 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 
 ### 📚 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&show_icons=true&theme=dark)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeDonggyu-07&count_bg=%2379C83D&title_bg=%23E91B1B&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=true)](https://hits.seeyoufarm.com)
