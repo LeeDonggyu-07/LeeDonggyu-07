@@ -37,6 +37,7 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2020 청소년 프로그래밍 팀 Team Nameless 팀원 (2020 Youth Programming Team Team Nameless Team Member)
 * 2020 더불어민주당 청소년 지지포럼 '더불어청소년' 회원
 * 2020 저작거리 감성 매거진 '글로밥상' 필진 (Writer of 'Globabsang')
+* 2020 수완뉴스 산하 청소년 언론 '청라온' 대표 (Head of 'Chungraon')
 
 ### 💻 Previous Projects
 * 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
