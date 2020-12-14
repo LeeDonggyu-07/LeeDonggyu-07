@@ -32,16 +32,19 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2019 [통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841) 제 8기 기자 (2019 Ministry of Unification Children's Reporter Group 8th Reporter)
 * 2020 우송대학교 KWC2020 대회 Team Acentic 모임 일정 통계 서비스 MeetUP 출품 (2020 Woosong University KWC2020 Competition Team Acentic Meeting Schedule Statistics Service MeetUP Entry)
 * 2020 청소년 프로그래밍 / 활동 팀 Acentic Network 운영진 (2020 Youth Programming / Activity Team Acentic Network Management Team)
-* 2020 청소년 언론 [수완뉴스](https://www.su-wan.co.kr/) 청소년 기자단 기자 (2020 Youth Press Suwan News Youth Reporters Reporter)
+* 2020~ 청소년 언론 [수완뉴스](https://www.su-wan.co.kr/) 청소년 기자단 기자 (2020 Youth Press Suwan News Youth Reporters Reporter)
 * 2020 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do) 선발직 온라인소통팀 팀장 (2020 Korea Youth special congress Direct Online Communication Team Team Leader)
 * 2020 청소년 프로그래밍 팀 Team Nameless 팀원 (2020 Youth Programming Team Team Nameless Team Member)
-* 2020 더불어민주당 청소년 지지포럼 '더불어청소년' 회원
-* 2020 저작거리 감성 매거진 '글로밥상' 필진 (Writer of 'Globabsang')
-* 2020 수완뉴스 산하 청소년 언론 '청라온' 대표 (Head of 'Chungraon')
+* 2020 고명중학교 학생과학탐구발표대회 우수상 수상 (2020 Received Komyung Middle School Student Science Investigation Presentation Contest Excellence Award)
+* 2020~ 더불어민주당 청소년 지지포럼 '더불어청소년' 회원 (2020 Member of the Democratic Party Youth Support Forum 'TheChung'
+* 2020~ 저작거리 감성 매거진 '글로밥상' 필진 (2020 Writer of 'Globabsang', the emotional magazine)
+* 2020~ 수완뉴스 산하 청소년 언론 '청라온' 대표 (2020 Head of Youth press'Chungraon')
+* 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the 2020 Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
 
 ### 💻 Previous Projects
 * 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
 * 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
+* 2020 The Hanthon Project
 
 ### 📚 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&show_icons=true&theme=dark)
