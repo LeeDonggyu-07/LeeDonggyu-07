@@ -39,12 +39,12 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2020~ 더불어민주당 청소년 지지포럼 '더불어청소년' 회원 (2020 Member of the Democratic Party Youth Support Forum 'TheChung'
 * 2020~ 저작거리 감성 매거진 '글로밥상' 필진 (2020 Writer of 'Globabsang', the emotional magazine)
 * 2020~ 수완뉴스 산하 청소년 언론 '청라온' 대표 (2020 Head of Youth press'Chungraon')
-* 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the 2020 Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
+* 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
 
 ### 💻 Previous Projects
 * 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
 * 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
-* 2020 The Hanthon Project
+* 2020 The Hanthon Project [Student Science Investigation Presentation Contest](https://github.com/LeeDonggyu-07/Hanthon-Project)
 
 ### 📚 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&show_icons=true&theme=dark)
