@@ -40,6 +40,9 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2020~ 저작거리 감성 매거진 ['글로밥상'](http://globob.kr/) 필진 (2020 Writer of 'Globabsang', the emotional magazine)
 * 2020~ 수완뉴스 산하 청소년 언론 '청라온' 대표 (2020 Head of Youth press'Chungraon')
 * 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
+* 2020~ 청소년 정보보호 동아리 'TheHackers' 대표 (2020 Head of Youth Information Protection Club 'TheHackers')
+* 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부원
+* 2020~ 청소년 단체 '씨리얼' 운영팀 팀원
 
 ### 💻 Previous Projects
 * 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
