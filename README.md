@@ -7,7 +7,6 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 
 * crock1234@naver.com
 * crock1234@kakao.com
-* crockkevin1234@gmail.com
 
 #### 💬 KakaoTalk
 * @CROCKLDG
@@ -18,6 +17,9 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 ### 😀 My Role
 개발 분야에서는 주로 **'기획과 프론트엔드 도움'** 을 맡고 있습니다. 직접 프로그래밍을 하기 보다는 개발자들을 위해 서비스의 기초를 잡고, 구성을 하는 데 집중합니다.   
 In the field of development, I am primarily responsible for'**planning and front-end assistance**'. Rather than do programming yourself, I focus on **building the foundation, configuring the service** for the developer.
+
+정보보호에도 관심이 있습니다. 화이트 해킹을 위해 학습하고 있습니다!
+I am also interested in information protection. I'm learning for white hacking!
 
 청소년 활동 분야에서는 주로 **'활동 구성 및 진행', '온라인 소통'을 맡고 있습니다.** 청소년 기자, 활동가로 활동할 수 있도록 노력하고 있습니다.   
 In the field of youth activities, I am mainly in charge of'**organizing and conducting activities**' and'online communication'. I am working hard to become a **youth reporter and activist.**
@@ -41,8 +43,8 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2020~ 수완뉴스 산하 청소년 언론 '청라온' 대표 (2020 Head of Youth press'Chungraon')
 * 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
 * 2020~ 청소년 정보보호 동아리 'TheHackers' 대표 (2020 Head of Youth Information Protection Club 'TheHackers')
-* 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부원
 * 2020~ 청소년 단체 '씨리얼' 운영팀 팀원
+* 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부원
 
 ### 💻 Previous Projects
 * 2019 Yak Project (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
