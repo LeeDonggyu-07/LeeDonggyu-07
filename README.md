@@ -51,4 +51,4 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
 * 2020 [The Hanthon Project](https://github.com/LeeDonggyu-07/Hanthon-Project) 
 ### 📚 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&show_icons=true&theme=dark)
+<a href="https://github.com/LeeDonggyu-07">![LeeDonggyu-007](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&count_private=true)</a>
