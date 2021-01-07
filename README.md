@@ -40,7 +40,8 @@ In the field of youth activities, I am mainly in charge of'**organizing and cond
 * 2020 [고명중학교](http://komyung.sen.ms.kr/index.do) 학생과학탐구발표대회 우수상 수상 (2020 Received Komyung Middle School Student Science Investigation Presentation Contest Excellence Award)
 * 2020~ 더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/) 회원 (2020 Member of the Democratic Party Youth Support Forum 'TheChung'
 * 2020~ 저작거리 감성 매거진 ['글로밥상'](http://globob.kr/) 필진 (2020 Writer of 'Globabsang', the emotional magazine)
-* 2020~ 수완뉴스 산하 청소년 언론 '청라온' 대표 (2020 Head of Youth press'Chungraon')
+* 2020~ 수완뉴스 산하 청소년 단체 '청라온' 대표이사 (2020 Head of Youth association'Chungraon')
+* 2020~ 청소년 언론 '청라온' 발행/편집인 겸 대표이사
 * 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
 * 2020~ 청소년 정보보호 동아리 'TheHackers' 대표 (2020 Head of Youth Information Protection Club 'TheHackers')
 * 2020~ 청소년 단체 '씨리얼' 운영팀 팀원
