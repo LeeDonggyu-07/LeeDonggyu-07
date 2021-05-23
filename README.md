@@ -15,36 +15,36 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 * [https://blog.naver.com/crock1234](https://blog.naver.com/crock1234)
 
 ### 😀 My Role
-개발 분야에서는 주로 **'기획과 프론트엔드 도움'** 을 맡고 있습니다. 직접 프로그래밍을 하기 보다는 개발자들을 위해 서비스의 기초를 잡고, 구성을 하는 데 집중합니다.   
-In the field of development, I am primarily responsible for'**planning and front-end assistance**'. Rather than do programming yourself, I focus on **building the foundation, configuring the service** for the developer.
+개발 분야에서는 주로 **'기획과 프론트엔드 도움'** 을 맡고 있습니다. 직접 프로그래밍을 하기 보다는 개발자들을 위해 서비스의 기초를 잡고, 구성을 하는 데 집중합니다. 
 
 정보보호에도 관심이 있습니다. 화이트 해킹을 위해 학습하고 있습니다!    
-I am also interested in information protection. I'm learning for white hacking!
 
 청소년 활동 분야에서는 주로 **'활동 구성 및 진행', '온라인 소통'을 맡고 있습니다.** 청소년 기자, 활동가로 활동할 수 있도록 노력하고 있습니다.   
-In the field of youth activities, I am mainly in charge of'**organizing and conducting activities**' and'online communication'. I am working hard to become a **youth reporter and activist.**
 
 ### 🧑‍ Career
-* 2016 서울시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/) 어린이 기자단 기자 (2016 Seoul Children's Newspaper My Friend Seoul Children's Reporter Reporter)
-* 2017 마인크래프트 서버 개발 팀 DM Networks 대표 (2017 Head of DM Networks, Minecraft Server Development Team)
-* 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격 (2017 Korea Association for ICT Promotion(KAIT) Digital Information Ability Test(DIAT) Presentation(PPT) Advanced Pass)
-* 2018 [키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko) 제 9대 어린이 의원 (2018 KidZania Seoul 9th Children congress man)
-* 2019 [서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/) 제 1기 수료 (2019 Seoul National University of Education Software Gifted Program 1st Completion)
-* 2019 청소년 프로그래밍팀 Cherry Networks 대표 (2019 Head of Cherry Networks, Youth Programming Team)
-* 2019 [통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841) 제 8기 기자 (2019 Ministry of Unification Children's Reporter Group 8th Reporter)
-* 2020 우송대학교 KWC2020 대회 Team Acentic 모임 일정 통계 서비스 MeetUP 출품 (2020 Woosong University KWC2020 Competition Team Acentic Meeting Schedule Statistics Service MeetUP Entry)
-* 2020 청소년 프로그래밍 / 활동 팀 Acentic Network 운영진 (2020 Youth Programming / Activity Team Acentic Network Management Team)
-* 2020~ 청소년 언론 [수완뉴스](https://www.su-wan.co.kr/) 청소년 기자단 기자 (2020 Youth Press Suwan News Youth Reporters Reporter)
-* 2020 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do) 선발직 온라인소통팀 팀장 (2020 Korea Youth special congress Direct Online Communication Team Team Leader)
-* 2020 청소년 프로그래밍 팀 Team Nameless 팀원 (2020 Youth Programming Team Team Nameless Team Member)
-* 2020 [고명중학교](http://komyung.sen.ms.kr/index.do) 학생과학탐구발표대회 우수상 수상 (2020 Received Komyung Middle School Student Science Investigation Presentation Contest Excellence Award)
-* 2020~ 더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/) 회원 (2020 Member of the Democratic Party Youth Support Forum 'TheChung'
-* 2020~ 저작거리 감성 매거진 ['글로밥상'](http://globob.kr/) 필진 (2020 Writer of 'Globabsang', the emotional magazine)
-* 2020~ 수완뉴스 산하 청소년 단체 '청라온' 대표이사 (2020 Head of Youth association'Chungraon')
+* 2016 서울시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/) 어린이 기자단 기자
+* 2017 마인크래프트 서버 개발 팀 DM Networks 대표
+* 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격
+* 2018 [키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko) 제 9대 어린이 의원
+* 2019 [서울교육대학교 소프트웨어 영재원]
+* 2019 청소년 프로그래밍팀 Cherry Networks 대표 
+* 2019 [통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841) 제 8기 기자
+* 2020 우송대학교 KWC2020 대회 Team Acentic 모임 일정 통계 서비스 MeetUP 출품 
+* 2020 청소년 프로그래밍 / 활동 팀 Acentic Network 운영진
+* 2020~ 청소년 언론 [수완뉴스](https://www.su-wan.co.kr/) 청소년 기자단 기자
+* 2020 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do) 선발직 온라인소통팀 팀장 
+* 2020 청소년 프로그래밍 팀 Team Nameless 팀원 
+* 2020 [고명중학교](http://komyung.sen.ms.kr/index.do) 학생과학탐구발표대회 우수상 수상 
+* 2020~ 더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/) 회원 
+* 2020~ 저작거리 감성 매거진 ['글로밥상'](http://globob.kr/) 필진 
+* 2020~ 수완뉴스 산하 청소년 단체 '청라온' 대표이사
 * 2020~ 청소년 언론 '청라온' 발행/편집인 겸 대표이사
-* 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 (2020 Received the grand prize in the slogan section of the Child Rights Guarantee Institute Child Policy Evaluation and Evaluation)
-* 2020~ 청소년 정보보호 동아리 'TheHackers' 대표 (2020 Head of Youth Information Protection Club 'TheHackers')
+* 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 
+* 2020~ 청소년 정보보호 동아리 'TheHackers' 대표 
 * 2020~ 청소년 단체 '씨리얼' 운영팀 팀원
+* 2021~ 고명중학교 방송부원
+* 2021~ 고명중학교 학생화 차장
+* 2021~ 아수나로 회원
 
 ### 💻 Previous Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
