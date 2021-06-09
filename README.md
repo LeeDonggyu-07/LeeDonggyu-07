@@ -42,11 +42,13 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 * 2020~ 청소년 언론 '청라온' 발행/편집인 겸 대표이사
 * 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 
 * 2020 청소년 정보보호 동아리 'TheHackers' 대표 
+* 2020~ 청소년/청년 단체 씨리얼 기획팀 팀원
 * 2020 한국미래청년청소년정책연구회 대외소통국장 겸 조직국원
 * 2020~ 청소년 단체 '씨리얼' 운영팀 팀원
 * 2021~ 고명중학교 방송부원
 * 2021~ 고명중학교 학생회 차장
 * 2021~ 청소년 인권 단체 '아수나로' 회원
+* 2021 대통령 직속 국가교육회의 국민참여단
 
 ### 💻 Previous Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
