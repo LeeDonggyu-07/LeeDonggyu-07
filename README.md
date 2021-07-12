@@ -26,7 +26,8 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 * 2017 마인크래프트 서버 개발 팀 DM Networks 대표
 * 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격
 * 2018 [키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko) 제 9대 어린이 의원
-* 2019 [서울교육대학교 소프트웨어 영재원]
+* 2018 마인크래프트 서버 개발 팀 Lien Networks 내부개발팀 팀장
+* 2019 [서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/) 6학년 기초과정 수료
 * 2019 청소년 프로그래밍팀 Cherry Networks 대표 
 * 2019 [통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841) 제 8기 기자
 * 2020 우송대학교 KWC2020 대회 Team Acentic 모임 일정 통계 서비스 MeetUP 출품 
@@ -49,7 +50,7 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 * 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 학생회 차장
 * 2021~ 청소년 인권 단체 '아수나로' 회원
 * 2021~ 대통령 직속 국가교육회의 국민참여단
-* 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 진로직업체험보고서 우수자 우수상(2위) 수상
+* 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 진로직업체험보고서우수자 우수상(2위) 수상
 
 ### 💻 Previous Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
