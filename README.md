@@ -34,21 +34,22 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 * 2020~ 청소년 언론 [수완뉴스](https://www.su-wan.co.kr/) 청소년 기자단 기자
 * 2020 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do) 선발직 온라인소통팀 팀장 
 * 2020 청소년 프로그래밍 팀 Team Nameless 팀원 
-* 2020 [고명중학교](http://komyung.sen.ms.kr/index.do) 학생과학탐구발표대회 우수상 수상 
+* 2020 [고명중학교](http://komyung.sen.ms.kr/index.do) 학생과학탐구발표대회 우수상(2위) 수상 
 * 2020~ 더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/) 회원 
 * 2020~ 저작거리 감성 매거진 ['글로밥상'](http://globob.kr/) 필진 
 * 2020~ 수완뉴스 산하 청소년 언론 '청라온' TF 본부장
 * 2020~ 청소년 단체 '유니엄' 대표이사
 * 2020~ 청소년 언론 '청라온' 발행/편집인 겸 대표이사
 * 2020 아동권리보장원 아동정책영향평가 공모전 슬로건 부문 최우수상 수상 
+* 2020 [고명중학교](http://komyung.sen.ms.kr/index.do) 1년 개근상 수상
 * 2020 청소년 정보보호 동아리 'TheHackers' 대표 
 * 2020~ 청소년/청년 단체 씨리얼 기획팀 팀원
-* 2020 한국미래청년청소년정책연구회 대외소통국장 겸 조직국원
-* 2020~ 청소년 단체 '씨리얼' 운영팀 팀원
-* 2021~ 고명중학교 방송부원
-* 2021~ 고명중학교 학생회 차장
+* 2020~ 한국미래청년청소년정책연구회 대외소통국장 겸 조직국원
+* 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부원
+* 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 학생회 차장
 * 2021~ 청소년 인권 단체 '아수나로' 회원
-* 2021 대통령 직속 국가교육회의 국민참여단
+* 2021~ 대통령 직속 국가교육회의 국민참여단
+* 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 진로직업체험보고서 우수자 우수상(2위) 수상
 
 ### 💻 Previous Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
