@@ -45,7 +45,7 @@
 * 2020 청소년 정보보호 동아리 'TheHackers' 대표 
 * 2020~ 청소년/청년 단체 씨리얼 기획팀 팀원
 * 2020~ 한국미래청년청소년정책연구회 대외소통국장 겸 조직국원
-* 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부원
+* 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부 부원
 * 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 학생회 차장
 * 2021 청소년 인권 단체 '아수나로' 회원
 * 2021 청소년 과학전문지 [STEMATIX](http://www.stematix.org/) 한국지부 저널리스트
