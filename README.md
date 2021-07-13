@@ -49,7 +49,7 @@ Welcome to my page. I am LeeDonggyu, living in Korea. I am **14 years old in Kor
 * 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 방송부원
 * 2021~ [고명중학교](http://komyung.sen.ms.kr/index.do) 학생회 차장
 * 2021~ 청소년 인권 단체 '아수나로' 회원
-* 2021 청소년 과학전문지 [STEMATIX](http://www.stematix.org/) 저널리스트
+* 2021 청소년 과학전문지 [STEMATIX](http://www.stematix.org/) 한국지부 저널리스트
 * 2021~ 대통령 직속 국가교육회의 국민참여단
 * 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 진로직업체험보고서우수자 우수상(2위) 수상
 
