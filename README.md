@@ -1,7 +1,11 @@
-### 👋 About
-#### 15세, 세상을 열다
+<div align="center">
+<h2>이동규(Lee Donggyu)</h2>
+</div>
+
+## 👋 About
+#### 🌈 15세, 세상을 열다
 현재 15세(Korea age), 중학교 2학년입니다. 세상을 향해, 세상을 열기 위해 나아가고 있습니다.
-#### 소속
+#### 🏛️ 소속
 * 고명중학교
 * 고명중학교 학생회
 * 고명중학교 방송부
@@ -13,7 +17,7 @@
 * 대통령 직속 국가교육회의
 * 한국미래청년청소년정책연구회
 
-### 📞 Contact
+## 📞 Contact
 #### 📧 Email
 
 * crock1234@naver.com
@@ -25,12 +29,12 @@
 #### 📖 Naver Blog
 * [https://blog.naver.com/crock1234](https://blog.naver.com/crock1234)
 
-### 😀 My Role
+## 😀 My Role
 개발 분야에서는 주로 **'기획과 프론트엔드 도움'** 을 맡고 있습니다. 직접 프로그래밍을 하기 보다는 개발자들을 위해 서비스의 기초를 잡고, 구성을 하는 데 집중합니다. 
    
 청소년 활동 분야에서는 주로 **'활동 구성 및 진행', '온라인 소통'을 맡고 있습니다.** 청소년 기자, 활동가로 활동할 수 있도록 노력하고 있습니다.   
 
-### 🧑‍ Career
+## 🧑‍ Career
 * 2016 서울시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/) 어린이 기자단 기자
 * 2017 마인크래프트 서버 개발 팀 DM Networks 대표
 * 2017 한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT) 프리젠테이션(PPT)과 고급 합격
@@ -63,9 +67,9 @@
 * 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 진로직업체험보고서우수자 우수상(2위) 수상
 * 2021 [고명중학교](http://komyung.sen.ms.kr/index.do) 1학기 교과우수상(과학) 수상
 
-### 💻 Previous Projects
+## 💻 Previous Programming Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
 * 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
 * 2020 [The Hanthon Project](https://github.com/LeeDonggyu-07/Hanthon-Project) 
-### 📚 Stats
+## 📚 Stats
 <a href="https://github.com/LeeDonggyu-07">![LeeDonggyu-007](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&count_private=true)</a>
