@@ -19,7 +19,8 @@
 
 ## 📞 Contact
 #### 📧 Email
-
+* leedonggyu@komyung.sen.ms.kr
+* admin@komyung.sen.ms.kr
 * crock1234@naver.com
 * crock1234@kakao.com
 
