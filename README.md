@@ -25,7 +25,7 @@
 청소년 활동 분야에서는 주로 **'활동 구성 및 진행', '온라인 소통'을 맡고 있습니다.** 청소년 기자, 활동가로 활동할 수 있도록 노력하고 있습니다.   
 
 ## 🧑‍ Career
-|시작 연도|종료 연도|활동 기관명|활동 내용/직위|비고|
+|시작 연도|종료 연도|활동 기관/대회명|활동 내용/직위|비고|
 |:--:|:--:|:---------:|:----------:|:----------:|
 |2016|2017|서울특별시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/)|어린이 기자||
 |2017|2018|마인크래프트 서버 개발 팀 DM Networks|대표||
@@ -35,7 +35,7 @@
 |2019|2020|[서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/)|6학년 기초과정 수료||
 |2019|2020|청소년 프로그래밍팀 Cherry Networks|대표|| 
 |2019|2020|[통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841)|제 8기 기자||
-|2020|-|우송대학교 KWC2020 대회|Team Acentic 모임 일정 통계 서비스 MeetUP 출품|| 
+|2020|-|2020 KWC(Korea Wi.content Contest)|모바일 웹 부문 Team Acentic 모임 일정 통계 서비스 MeetUP 출품|| 
 |2020|2020|청소년 프로그래밍 팀 Acentic Network|운영진||
 |2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
 |2020|2021|여성가족부 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 온라인소통팀 팀장||
@@ -66,5 +66,3 @@
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
 * 2020 MeetUP ([KWC21](http://www.21kwc.com/2020/index.html) with [@YubinHeo](https://github.com/yubinheo), Sweet_cloud, [@Jinpyojoo](https://github.com/jinpyojoo))
 * 2020 [The Hanthon Project](https://github.com/LeeDonggyu-07/Hanthon-Project) 
-## 📚 Stats
-<a href="https://github.com/LeeDonggyu-07">![LeeDonggyu-007](https://github-readme-stats.vercel.app/api?username=LeeDonggyu-07&count_private=true)</a>
