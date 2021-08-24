@@ -37,13 +37,13 @@
 |2019|2020|[통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841)|제 8기 기자||
 |2020|-|우송대학교 KWC2020 대회|Team Acentic 모임 일정 통계 서비스 MeetUP 출품|| 
 |2020|2020|청소년 프로그래밍 팀 Acentic Network|운영진||
-|2020|現|청소년 청년 언론 [수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
+|2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
 |2020|2021|여성가족부 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 온라인소통팀 팀장||
 |2020|2020|청소년 프로그래밍 팀 Team Nameless|팀원||
 |2020|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|학생과학탐구발표대회 우수상(2위) 수상||
 |2020|現|더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/)|회원|| 
 |2020|現|저작거리 감성 매거진 ['글로밥상'](http://globob.kr/)|필진|| 
-|2020|現|청소년 청년 언론 [수완뉴스](https://www.su-wan.co.kr/)|청소년 언론 '청라온' TF 본부장||
+|2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 언론 '청라온' TF 본부장||
 |2020|現|청소년 단체 '유니엄'|대표이사||
 |2020|現|청소년 언론 '청라온'|대표이사||
 |2020|-|아동권리보장원|아동정책영향평가 공모전 슬로건 부문 최우수상 수상||
