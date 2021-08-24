@@ -5,17 +5,6 @@
 ## 👋 About
 #### 🌈 15세, 세상을 열다
 현재 15세(Korea age), 중학교 2학년입니다. 세상을 향해, 세상을 열기 위해 나아가고 있습니다.
-#### 🏛️ 소속
-* 고명중학교
-* 고명중학교 학생회
-* 고명중학교 방송부
-* 수완뉴스
-* 글로밥상
-* 청소년 단체 '유니엄'
-* 청소년 언론 '청라온'
-* 청소년/청년 단체 씨리얼
-* 대통령 직속 국가교육회의
-* 한국미래청년청소년정책연구회
 
 ## 📞 Contact
 #### 📧 Email
@@ -70,6 +59,8 @@
 |2021|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|진로직업체험보고서우수자 우수상(2위) 수상||
 |2021|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|1학기 교과우수상(과학) 수상||
 |2021|現|더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/)|정책본부 본부장||
+|2021|現|[아이엠뉴스](https://www.iamnews.kr/)|수습기자||
+
 
 ## 💻 Previous Programming Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
