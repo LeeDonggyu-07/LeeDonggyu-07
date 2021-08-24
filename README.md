@@ -35,7 +35,7 @@
 |2019|2020|[서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/)|6학년 기초과정 수료||
 |2019|2020|청소년 프로그래밍팀 Cherry Networks|대표|| 
 |2019|2020|[통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841)|제 8기 기자||
-|2020|-|2020 KWC(Korea Wi.content Contest)|모바일 웹 부문 Team Acentic 모임 일정 통계 서비스 MeetUP 출품|| 
+|2020|-|우송대학교 2020 KWC(Korea Wi.content Contest)|모바일 웹 부문 Team Acentic 모임 일정 통계 서비스 MeetUP 출품|| 
 |2020|2020|청소년 프로그래밍 팀 Acentic Network|운영진||
 |2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
 |2020|2021|여성가족부 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 온라인소통팀 팀장||
@@ -46,7 +46,7 @@
 |2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 언론 '청라온' TF 본부장||
 |2020|現|청소년 단체 '유니엄'|대표이사||
 |2020|現|청소년 언론 '청라온'|대표이사||
-|2020|-|아동권리보장원|아동정책영향평가 공모전 슬로건 부문 최우수상 수상||
+|2020|-|아동권리보장원 아동정책영향평가 공모전|슬로건 부문 최우수상 수상||
 |2020|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|1년 개근상 수상||
 |2020|2020|청소년 정보보호 동아리 'TheHackers'|운영팀 팀장||
 |2020|現|청소년/청년 단체 씨리얼|기획팀 팀원||
