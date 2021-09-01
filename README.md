@@ -39,7 +39,7 @@
 |2020|2020|청소년 프로그래밍 팀 Acentic Network|운영진||
 |2020|2020|[고명중학교](http://komyung.sen.ms.kr/index.do)|1학년 5반 1학기 학급회장||
 |2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
-|2020|2021|여성가족부 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 온라인소통팀 팀장||
+|2020|2021|여성가족부 제 16회 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 온라인소통팀 팀장||
 |2020|2020|청소년 프로그래밍 팀 Team Nameless|팀원||
 |2020|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|학생과학탐구발표대회 우수상(2위) 수상|고명중학교장상|
 |2020|現|더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/)|회원|| 
