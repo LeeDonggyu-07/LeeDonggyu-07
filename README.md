@@ -62,7 +62,6 @@
 |2021|現|더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/)|정책본부 본부장||
 |2021|現|[아이엠뉴스](https://www.iamnews.kr/)|수습기자||
 |2021|-|[toss](https://toss.im/)|토스 디자인 컨퍼런스 'Simplicity 21' 참석||
-|2021|-|[고명중학교](http://komyung.sen.ms.kr/index.do)||고명중학교장상|
 
 
 ## 💻 Previous Programming Projects
