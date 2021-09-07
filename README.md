@@ -32,7 +32,7 @@
 |2017|-|한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT)|프리젠테이션(PPT)과 고급 합격||
 |2018|2019|[키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko)|제 9대 어린이 의원||
 |2018|2019|마인크래프트 서버 개발 팀 Lien Networks|내부개발팀 팀장||
-|2019|2020|[서울교육대학교 소프트웨어 영재원](https://talented.snue.ac.kr/)|6학년 기초과정 수료||
+|2019|2020|[서울교육대학교 소프트웨어 영재교육원](https://talented.snue.ac.kr/)|6학년 기초과정 수료||
 |2019|2020|청소년 프로그래밍팀 Cherry Networks|대표|| 
 |2019|2020|[통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841)|제 8기 기자||
 |2020|-|우송대학교 2020 KWC(Korea Wi.content Contest)|모바일 웹 부문 모임 일정 통계 서비스 MeetUP 출품|Team Acentic| 
