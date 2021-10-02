@@ -68,7 +68,7 @@
 |2021|-|[청소년기후행동](https://youth4climateaction.org/924_Uproot_the_system)|924글로벌기후파업 참여||
 |2021|現|[청소년기후행동](https://youth4climateaction.org/Greta-cant-do-anything-alone)|기후정치크루|제20대 대통령 선거|
 |2021|現|청소년인권모임|청소년 활동가||
-|2021|現|청소년사회교육혁명포럼 '청춘희망소'|창립준비위원회 위원||
+|2021|現|청소년사회교육혁명포럼 '청춘희망소'|창립준비위원회 홍보소통팀 팀장||
 
 
 ## 💻 Previous Programming Projects
