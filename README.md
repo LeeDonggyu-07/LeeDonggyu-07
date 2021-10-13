@@ -70,7 +70,6 @@
 |2021|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|1학기 교과우수상(과학) 수상|고명중학교장상|
 |2021|現|더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/)|정책본부 본부장||
 |2021|現|[아이엠뉴스](https://www.iamnews.kr/)|수습기자||
-|2021|-|[toss](https://toss.im/)|토스 디자인 컨퍼런스 'Simplicity 21' 참석||
 |2021|現|KIYP 한국청소년정책연구소|운영위원회 부위원장||
 |2021|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|학생과학탐구발표대회 우수상(2위) 수상|고명중학교장상|
 |2021|-|[청소년기후행동](https://youth4climateaction.org/924_Uproot_the_system)|924글로벌기후파업 참여||
