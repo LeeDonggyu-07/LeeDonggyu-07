@@ -36,10 +36,10 @@
 |2017|2018|마인크래프트 서버 개발 팀 DM Networks|대표||
 |2017|-|한국정보통신진흥협회 정보통신기술자격검정 디지털정보활용능력(DIAT)|프리젠테이션(PPT)과 고급 합격||
 |2018|2019|[키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko)|제 9대 어린이 의원||
-|2018|2018|[서울정덕초등학교](https://jeongdeok.sen.es.kr/index.do)|5학년 1반 1학기 학급회장||
-|2018|2018|[한국청소년상담복지개발원](https://www.kyci.or.kr/userSite/index.asp)|솔리언 또래상담 프로그램 수료||
-|2018|2019|마인크래프트 서버 개발 팀 Lien Networks|내부개발팀 팀장||
+|2018|2018|[서울정덕초등학교](https://jeongdeok.sen.es.kr/index.do)|5학년 1반 1학기 학급부회장||
+|2018|2018|[한국청소년상담복지개발원](https://www.kyci.or.kr/userSite/index.asp)|솔리언 또래상담 프로그램 수료|||
 |2018|2018|[한국청소년상담복지개발원](https://www.kyci.or.kr/userSite/index.asp)|솔리언 또래상담자||
+|2018|2019|마인크래프트 서버 개발 팀 Lien Networks|내부개발팀 팀장|
 |2019|2020|[서울교육대학교 소프트웨어 영재교육원](https://talented.snue.ac.kr/)|6학년 기초과정 수료||
 |2019|2020|청소년 프로그래밍팀 Cherry Networks|대표|| 
 |2019|2020|[통일부 어린이 기자단](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841)|제 8기 기자||
@@ -52,13 +52,13 @@
 |2020|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|학생과학탐구발표대회 우수상(2위) 수상|고명중학교장상|
 |2020|現|더불어민주당 청소년 지지포럼 ['더불어청소년'](https://www.facebook.com/TheBlue427/)|회원|| 
 |2020|現|저작거리 감성 매거진 ['글로밥상'](http://globob.kr/)|필진|| 
-|2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 언론 '청라온' TF 본부장||
+|2020|2021|[수완뉴스](https://www.su-wan.co.kr/)|청소년 언론 '청라온' TF 본부장||
 |2020|現|청소년 단체 '유니엄'|대표이사||
 |2020|現|청소년 언론 '청라온'|대표이사||
 |2020|-|아동권리보장원 아동정책영향평가 공모전|슬로건 부문 최우수상 수상|아동권리보장원장상|
 |2020|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|1년 개근상 수상|고명중학교장상|
 |2020|2020|청소년 정보보호 동아리 'TheHackers'|운영팀 팀장||
-|2020|現|청소년/청년 단체 씨리얼|기획팀 팀원||
+|2020|2021|청소년/청년 단체 씨리얼|기획팀 팀원||
 |2020|現|한국미래청년청소년정책연구회|대외소통국장 겸 조직국원||
 |2021|現|[고명중학교](http://komyung.sen.ms.kr/index.do)|방송부 부원|2021학년도|
 |2021|現|[고명중학교](http://komyung.sen.ms.kr/index.do)|학생회 차장|2021학년도|
