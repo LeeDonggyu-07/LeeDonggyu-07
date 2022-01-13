@@ -26,9 +26,6 @@
 청소년 활동 분야에서는 주로 **'활동 구성 및 진행', '온라인 소통'을 맡고 있습니다.** 청소년 기자, 활동가로 활동할 수 있도록 노력하고 있습니다. 청소년 선거연령 하향, 입당연령 제한 폐지를 꿈꾸며 청소년이 더 많은 분야에서 당당하게 활동할 수 있는 사회를 꿈꿉니다.   
 
 ## 🧑‍ Career
-<details markdown="1">
-<summary>접기/펼치기</summary>
-
 |시작 연도|종료 연도|활동 기관/대회명|활동 내용/직위|비고|
 |:--:|:--:|:---------:|:----------:|:----------:|
 |2016|2017|서울특별시 어린이 신문 [내친구서울](https://kids.seoul.go.kr/)|어린이 기자||
@@ -46,7 +43,7 @@
 |2020|-|우송대학교 2020 KWC(Korea Wi.content Contest)|모바일 웹 부문 모임 일정 통계 서비스 MeetUP 출품|Team Acentic| 
 |2020|2020|청소년 프로그래밍 팀 Acentic Network|운영진||
 |2020|2020|[고명중학교](http://komyung.sen.ms.kr/index.do)|1학년 5반 1학기 학급회장||
-|2020|現|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
+|2020|2022|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
 |2020|2021|여성가족부 제 16회 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 온라인소통팀 팀장||
 |2020|2020|청소년 프로그래밍 팀 Team Nameless|팀원||
 |2020|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|학생과학탐구발표대회 우수상(2위) 수상|고명중학교장상|
@@ -77,8 +74,6 @@
 |2021|2021|청소년인권모임|청소년 활동가||
 |2021|2021|청소년사회교육혁명포럼 '청춘희망소'|창립준비위원회 홍보소통팀 팀장||
 |2022|現|[더불어민주당](https://theminjoo.kr/)|제20대 대통령선거 선거대책위원회 직능본부 정책 및 홍보 파트너||
-
-</details>
 
 ## 💻 Previous Programming Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
