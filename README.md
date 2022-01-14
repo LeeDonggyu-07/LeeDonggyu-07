@@ -75,6 +75,8 @@
 |2021|2021|청소년사회교육혁명포럼 '청춘희망소'|창립준비위원회 홍보소통팀 팀장||
 |2022|現|[더불어민주당](https://theminjoo.kr/) 제20대 대통령선거 선거대책위원회|직능본부 정책 및 홍보 파트너||
 |2022|現|[에듀뉴스](http://www.edunews.co.kr/)|학생기자||
+|2022|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|선행상(학생회 차장) 수상|고명중학교장상(2021학년도)|
+|2022|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|표창장(상점 우수) 수상|고명중학교장상(2021학년도)|
 
 ## 💻 Previous Programming Projects
 * 2019 [Yak Project](https://github.com/LeeDonggyu-07/YakProject) (with [@Jinpyojoo](https://github.com/jinpyojoo), Kim Kyubin, Kim Taehyun, Jeong Doyoung)
