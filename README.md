@@ -77,6 +77,7 @@
 |2022|現|[더불어민주당](https://theminjoo.kr/) 제20대 대통령선거 선거대책위원회|정무특보단 하이블루 청소년위원회 홍보소통본부원||
 |2022|現|[에듀뉴스](http://www.edunews.co.kr/)|학생기자||
 |2022|現|[그린피스](https://www.greenpeace.org/korea/)|자원봉사자||
+|2022|現|[국민권익위원회](https://www.acrc.go.kr/acrc/index.do)|[국민생각함](https://www.epeople.go.kr/idea/index.npaid) 국민패널||
 |2022|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|선행상(학생회 차장) 수상|고명중학교장상(2021학년도)|
 |2022|-|[고명중학교](http://komyung.sen.ms.kr/index.do)|표창장(상점 우수) 수상|고명중학교장상(2021학년도)|
 
