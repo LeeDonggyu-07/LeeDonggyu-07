@@ -95,7 +95,7 @@
 |:--:|:--:|:---------:|:----------:|:----------:|
 |2018|2019|[키자니아 서울](https://www.kidzania.co.kr/home.do?srcLocalDiv=001&srcLocale=ko)|제 9대 어린이 의원||
 |2018|2018|[한국청소년상담복지개발원](https://www.kyci.or.kr/userSite/index.asp)|솔리언 또래상담 프로그램 수료|||
-|2020|2021|여성가족부 제 16회 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|선발직 위원/온라인소통팀장||
+|2020|2021|여성가족부 제 16회 [청소년특별회의](https://www.youth.go.kr/ywith/activity/conference/intro.do)|온라인소통팀장(선발직 위원)||
 |2020|現|청소년 단체 '유니엄'|대표이사||
 |2020|2021|한국미래청년청소년정책연구회|대외소통국장 겸 조직국원||
 |2021|2021|[성북구](https://sb.go.kr)|혁신교육 추진단원||
@@ -108,7 +108,8 @@
 |2022|現|[그린피스](https://www.greenpeace.org/korea/)|자원봉사자||
 |2022|現|[국민권익위원회](https://www.acrc.go.kr/acrc/index.do)|[국민생각함](https://www.epeople.go.kr/idea/index.npaid) 국민패널||
 |2022|2022|사이버외교사절단 [반크](http://www.prkorea.com/)|청년공공외교대사 9기||
-|2022|2022|[서울특별시교육청](https://www.sen.go.kr/main/services/index/index.action)|제11기 학생참여단||
+|2022|現|[서울특별시교육청](https://www.sen.go.kr/main/services/index/index.action)|제11기 학생참여단||
+|2022|現|청년너울|청소년위원회 위원|
 
 #### Development Activity
 |시작 연도|종료 연도|활동 기관|활동 내용/직위|비고|
