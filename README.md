@@ -60,12 +60,13 @@
 |2016|2017|서울특별시|[내친구서울](https://kids.seoul.go.kr/) 어린이 기자||
 |2019|2020|[통일부](https://www.uniedu.go.kr/uniedu/home/cms/page/kidpress/view.do?mid=SM00000841)|제8기 어린이 기자||
 |2020|2022|[수완뉴스](https://www.su-wan.co.kr/)|청소년 기자||
-|2020|現|청소년 언론 '청라온'|대표이사||
+|2020|現|청소년 언론 '청라온'|선임기자||
 |2020|2022|저작거리 감성 매거진 ['글로밥상'](http://globob.kr/)|필진|| 
 |2021|2021|청소년 과학전문지 [STEMATIX](http://www.stematix.org/)|한국지부 저널리스트||
 |2021|2021|[아이엠뉴스](https://www.iamnews.kr/)|시민기자||
 |2022|現|[에듀뉴스](http://www.edunews.co.kr/)|학생기자||
 |2022|現|한국경제신문 [주니어 생글생글](https://jrsgsg.hankyung.com/)|기자||
+|2022|現|[금융소비자연맹](http://kfco.org/)|청소년소비자기자||
 
 #### Political Activity
 |시작 연도|종료 연도|활동 기관|활동 내용/직위|비고|
